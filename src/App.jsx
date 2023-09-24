@@ -20,7 +20,7 @@ function App() {
 
   /**
    * Función para los números
-   */
+   /Hello, it's me*/
   function handlerNumber({ target: { innerText } }) {
     setEvaluate(false);
     if (evaluate) {
