@@ -13,7 +13,7 @@ To run the application, follow these steps:
 5. Open your browser and navigate to `http://localhost:5173` to use the calculator.
 
 ## Features
-
+"Boki voli brazilke"
 The calculator has the following features:
 
 - Allows basic operations such as addition, subtraction, multiplication, and division.
